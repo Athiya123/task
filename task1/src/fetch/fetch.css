@@ -18,12 +18,13 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    font-size:15px;
     font-weight: bold;
     background-color: brown;
   }
   
   .card-header {
-    font-size: 10px;
+    font-size: 20px;
     font-style: normal;
   }
   
